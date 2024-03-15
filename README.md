@@ -1,5 +1,3 @@
-# jrachelye.github.io
-
 <table>
 <colgroup>
 <col style="width: 28%" />
