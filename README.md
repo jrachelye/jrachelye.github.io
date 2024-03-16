@@ -1,16 +1,16 @@
 <table>
 <colgroup>
-<col style="width: 42%" />
-<col style="width: 57%" />
+<col style="width: 45%" />
+<col style="width: 54%" />
 </colgroup>
 <thead>
 <tr class="header">
 <th><p><strong>Young-Eun Jeon</strong></p>
 <p>Science(Chemistry) education</p>
 <p>Bundang High School Teacher, South Korea</p></th>
-<th><p><strong>E:</strong> creativeye@snu.ac.kr</p>
+<td><p><strong>Email:</strong> creativeye@snu.ac.kr</p>
 <p><strong>ORCID:</strong>
-https://orcid.org/0000-0002-4303-8151</p></th>
+https://orcid.org/0000-0002-4303-8151</p></td>
 </tr>
 </thead>
 <tbody>
@@ -24,11 +24,6 @@ https://orcid.org/0000-0002-4303-8151</p></th>
 <col style="width: 76%" />
 <col style="width: 23%" />
 </colgroup>
-<thead>
-<tr class="header">
-<th colspan="2"></th>
-</tr>
-</thead>
 <tbody>
 <tr class="odd">
 <td colspan="2"><em>Ph. D. in science Education(Chemistry),
@@ -41,23 +36,23 @@ Advisor: Hun-Gi Hong</td>
 <td>Seoul, South Korea<br />
 09/2016 – 02/2023</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2"><em>M. Sc., in science Education(Chemistry), Thesis:
 Electrochemical sensing of hydrogen peroxide using Prussian Blue on
 poly(p-phenylenediamine) coated Multi-walled carbon nanotubes</em></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>Seoul National University<br />
 Advisor: Hun-Gi Hong</td>
 <td>Seoul, South Korea<br />
 03/2014 – 02/2016</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><em>B. S., in science Education(General Science &amp;
 Chemistry)</em></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>Chungbuk National University<br />
 Honors: Graduated with honors(1/90)</td>
 <td>Cheongju, South Korea<br />
@@ -119,121 +114,106 @@ Discussions on the Inquiry Process -. *Grammar Education*, 2018, 32(0),
 **Filed Science Experiment Lab, Seoul National University** 09/2016 –
 02/2023
 
-\- Science curriculum (Secondary education): Participated in writing a
-guidebook for high school teachers regarding the 2015 revised
-curriculum.
+- Science curriculum (Secondary education): Participated in writing a
+  guidebook for high school teachers regarding the 2015 revised
+  curriculum.
 
-**-** Science Instruction: designed blended instruction such as Flipped
-Learning and technology-based instruction incorporating Cooperative
-Learning and Process oriented guided inquiry learning(POGIL) in high
-school science(chemistry) class.
+- Science Instruction: designed blended instruction such as Flipped
+  Learning and technology-based instruction incorporating Cooperative
+  Learning and Process oriented guided inquiry learning(POGIL) in high
+  school science(chemistry) class.
 
-**-** Cognitive change in science learning: Studied cognitive changes in
-science content understanding according to types of scaffolding.
+- Cognitive change in science learning: Studied cognitive changes in
+  science content understanding according to types of scaffolding.
 
-**-** Utilization of technology in science education: Developed
-Application of AR-based chemistry education (Chemical bonding App:
-"Bondbuilder")
+- Utilization of technology in science education: Developed Application
+  of AR-based chemistry education (Chemical bonding App: "Bondbuilder")
 
-**-** Mentoring and instructor: Mentored 4 high school students for the
-STEAM activity project, and lectured the students who participated in
-this activity.
+- Mentoring and instructor: Mentored 4 high school students for the
+  STEAM activity project, and lectured the students who participated in
+  this activity.
 
 **Electrochemical Lab, Seoul National University** 03/2014 – 02/2016
 
-**-** Application of Self-Assembled Monolayer/Multilayer for
-Chemical/Electrochemical Sensing: Synthesized on Nanoparticle with
-Carbon Nanotubes(CNT) or Multi-Walled Carbon Nanotubes(MWCNT)Carbon.
-Confirmed of nanocomposites using FT-IR, XRD, TEM, SEM, etc. Modified
-electrochemical Sensor based on gold(Au), Platinum(Pt), Silver(Ag)
-electrodes for Catalyst Development.
+- Application of Self-Assembled Monolayer/Multilayer for
+  Chemical/Electrochemical Sensing: Synthesized on Nanoparticle with
+  Carbon Nanotubes(CNT) or Multi-Walled Carbon Nanotubes(MWCNT)Carbon.
+  Confirmed of nanocomposites using FT-IR, XRD, TEM, SEM, etc. Modified
+  electrochemical Sensor based on gold(Au), Platinum(Pt), Silver(Ag)
+  electrodes for Catalyst Development.
 
-**-** Mentoring: Mentored 4 undergraduate interns in analytical
-chemistry techniques especially electrochemical techniques.
+- Mentoring: Mentored 4 undergraduate interns in analytical chemistry
+  techniques especially electrochemical techniques.
 
 **TEACHING EXPERIENCE**
 
-**Bundang high School (Public School)** 03/2019 – present
+- **Bundang high School (Public School)** 03/2019 – present  
+  Integrated Science, Integrated Science Experiment, Chemistry Ⅰ, Ⅱ,
+  Chemistry Experiment
 
-**-** Integrated Science, Integrated Science Experiment, Chemistry Ⅰ, Ⅱ,
-Chemistry Experiment
+- **Gonjiam high school (Public School)** 03/2016 – 02/2018  
+  Integrated science, Chemistry Ⅰ, Ⅱ
 
-**Gonjiam high school (Public School)** 03/2016 – 02/2018
+- **Suji high school (Public School)** 03/2011 – 02/2014  
+  Integrated science, History of science, Chemistry Ⅰ, Ⅱ, Convergence
+  Science
 
-\- Integrated science, Chemistry Ⅰ, Ⅱ
-
-**Suji high school (Public School)** 03/2011 – 02/2014
-
-\- Integrated science, History of science, Chemistry Ⅰ, Ⅱ, Convergence
-Science
-
-**Chungdeok Junior high school/high School (Public School)** 03/2008 –
-02/2011
-
-\- Science(for junior high school), Chemistry Ⅰ, Ⅱ(high school)
+- **Chungdeok Junior high school/high School (Public School)** 03/2008 –
+  02/2011  
+  Science(for junior high school), Chemistry Ⅰ, Ⅱ(high school)
 
 **SKILLS**
 
-\- Instructional Design, Curriculum
+- Instructional Design, Curriculum
 
-\- Quantitative Analysis (statistical analysis in SPSS, bibliometric
-Analysis)
+- Quantitative Analysis (statistical analysis in SPSS, bibliometric
+  Analysis)
 
-\- Qualitative analysis
+- Qualitative analysis
 
-\- Fourier Transform Infrared Spectroscopy(FTIR) Spectroscopy
+- Fourier Transform Infrared Spectroscopy(FTIR) Spectroscopy
 
-\- Cyclic voltammetry and Amperometry
+- Cyclic voltammetry and Amperometry
 
-\- Electrochemical Impedance Spectroscopy
+- Electrochemical Impedance Spectroscopy
 
 **FELLOWSHIPS, AWARDS, AND HONORS**
 
-**Lecture & Research Scholarship, 2018**
+- **Lecture & Research Scholarship, 2018**  
+  School of education (Science education), Seoul National University,
+  Korea
 
-School of education (Science education), Seoul National University,
-Korea
+- **Commendation of academic excellence, 2012**  
+  Qualification training for secondary school teacher, Gyeonggi
+  Institute for Science Education, Korea
 
-**Commendation of academic excellence, 2012**
+- **Graduated with honors, 2007**  
+  School of education (Science education), Chungbuk National University,
+  Korea
 
-Qualification training for secondary school teacher, Gyeonggi Institute
-for Science Education, Korea
+<!-- -->
 
-**Graduated with honors, 2007**
-
-School of education (Science education), Chungbuk National University,
-Korea
-
-**National Scholarship, 2003 - 2006**
-
-Excellent science and engineering undergraduate student,
-
-Ministry of Education and Human Resources Development, Korea
+- **National Scholarship, 2003 – 2006**  
+  Excellent science and engineering undergraduate student,  
+  Ministry of Education and Human Resources Development, Korea
 
 **COURSE TAUGHT**
 
-**STEAM Education in Incheon Academy of Science & Arts**
+- **STEAM Education in Incheon Academy of Science & Arts**  
+  2018 Spring-Fall Semester  
+  STEAM activity Instructor
 
-2018 Spring-Fall Semester
+- **General Chemistry in Seoul National University Science Education
+  Institute for Gifted**  
+  2017 Spring-Fall Semester  
+  Instructor (Mentorship program)
 
-STEAM activity Instructor
-
-**General Chemistry in Seoul National University Science Education
-Institute for Gifted**
-
-2017 Spring-Fall Semester
-
-Instructor (Mentorship program)
-
-**Analytical Chemistry in Seoul National University**
-
-2014 Spring-Fall Semester, 2015 Spring Semester, 2018 Spring Semester
-
-Head Teaching Assistant (lecture section)
-
-2014 Spring-Fall Semester
-
-Full Lecturer (lab section)
+- **Analytical Chemistry in Seoul National University**  
+  2014 Spring-Fall Semester, 2015 Spring Semester, 2018 Spring
+  Semester  
+  Head Teaching Assistant (lecture section)  
+  2014 Spring-Fall Semester  
+  Full Lecturer (lab section)
 
 **PRESENTATIONS**
 
@@ -264,10 +244,10 @@ and Exhibition, Korea, poster presentation
 
 **PROFESSIONAL AFFILIATIONS**
 
-\- American Chemical Society
+- American Chemical Society
 
-\- International Society of Electrochemistry
+- International Society of Electrochemistry
 
-\- Korean Association for Science education
+- Korean Association for Science education
 
-\- Korean Society for School Science
+- Korean Society for School Science
