@@ -137,7 +137,7 @@ Discussions on the Inquiry Process -. *Grammar Education*, 2018, 32(0),
 
 - Application of Self-Assembled Monolayer/Multilayer for
   Chemical/Electrochemical Sensing: Synthesized on Nanoparticle with
-  Carbon Nanotubes(CNT) or Multi-Walled Carbon Nanotubes(MWCNT)Carbon.
+  Carbon Nanotubes(CNT) or Multi-Walled Carbon Nanotubes(MWCNT).
   Confirmed of nanocomposites using FT-IR, XRD, TEM, SEM, etc. Modified
   electrochemical Sensor based on gold(Au), Platinum(Pt), Silver(Ag)
   electrodes for Catalyst Development.
