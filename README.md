@@ -111,7 +111,7 @@ Discussions on the Inquiry Process -. *Grammar Education*, 2018, 32(0),
 
 **RESEARCH EXPERIENCE**
 
-**Filed Science Experiment Lab, Seoul National University** 09/2016 –
+**School Science Experiment Lab, Seoul National University** 09/2016 –
 02/2023
 
 - Science curriculum (Secondary education): Participated in writing a
@@ -213,9 +213,14 @@ Discussions on the Inquiry Process -. *Grammar Education*, 2018, 32(0),
   Semester  
   Head Teaching Assistant (lecture section)  
   2014 Spring-Fall Semester  
-  Full Lecturer (lab section)
+  Teaching Assistant (lab section)
 
 **PRESENTATIONS**
+
+**Bondbuilder: AR app for learning chemical bonds and educational effects in the high school 
+classroom
+, 2024,** English
+Schrodinger Educator's Week 2024, USA, oral presentation 
 
 **Development of chemical bond mobile-augmented reality application and
 Analysis of usability attitude toward augmented reality, 2022,** Korean
