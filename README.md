@@ -218,8 +218,7 @@ Discussions on the Inquiry Process -. *Grammar Education*, 2018, 32(0),
 **PRESENTATIONS**
 
 **Bondbuilder: AR app for learning chemical bonds and educational effects in the high school 
-classroom
-, 2024,** English
+classroom, 2024,**
 Schrodinger Educator's Week 2024, USA, oral presentation 
 
 **Development of chemical bond mobile-augmented reality application and
